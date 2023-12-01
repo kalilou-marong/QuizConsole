@@ -1,0 +1,94 @@
+{
+  "quizzes": [
+    {
+      "theme": "Géographie",
+      "questions": [
+        {
+          "question": "Quelle est la capitale de la France ?",
+          "options": ["Londres", "Berlin", "Paris", "Madrid"],
+          "correctAnswer": "Paris"
+        },
+        {
+          "question": "Quel est le plus grand océan du monde ?",
+          "options": ["Atlantique", "Pacifique", "Indien", "Arctique"],
+          "correctAnswer": "Pacifique"
+        },
+        {
+          "question": "Quel pays est connu comme le 'Pays du Soleil Levant' ?",
+          "options": ["Chine", "Japon", "Corée du Sud", "Vietnam"],
+          "correctAnswer": "Japon"
+        },
+        {
+          "question": "Quel est le plus grand désert du monde ?",
+          "options": ["Sahara", "Gobi", "Antarctique", "Arctique"],
+          "correctAnswer": "Antarctique"
+        },
+        {
+          "question": "Quelle est la plus haute montagne du monde ?",
+          "options": ["Mont Everest", "Mont McKinley", "Mont Kilimandjaro", "Mont Fuji"],
+          "correctAnswer": "Mont Everest"
+        }
+      ]
+    },
+    {
+      "theme": "Informatique",
+      "questions": [
+        {
+          "question": "Quel langage de programmation est souvent utilisé pour le développement web côté client ?",
+          "options": ["Java", "Python", "JavaScript", "C#"],
+          "correctAnswer": "JavaScript"
+        },
+        {
+          "question": "Qu'est-ce que CSS signifie en informatique ?",
+          "options": ["Counter Strike: Source", "Cascading Style Sheets", "Computer Style Sheets", "Creative Style Sheets"],
+          "correctAnswer": "Cascading Style Sheets"
+        },
+        {
+          "question": "Quel est le système d'exploitation principal d'Apple ?",
+          "options": ["Windows", "iOS", "Android", "Linux"],
+          "correctAnswer": "iOS"
+        },
+        {
+          "question": "Quel est le langage de requête utilisé pour interagir avec les bases de données SQL ?",
+          "options": ["Java", "JavaScript", "SQL", "C#"],
+          "correctAnswer": "SQL"
+        },
+        {
+          "question": "Quel est le fondateur de Microsoft ?",
+          "options": ["Steve Jobs", "Mark Zuckerberg", "Bill Gates", "Elon Musk"],
+          "correctAnswer": "Bill Gates"
+        }
+      ]
+    },
+    {
+      "theme": "Cinéma",
+      "questions": [
+        {
+          "question": "Quel réalisateur a dirigé 'Inception' et 'Interstellar' ?",
+          "options": [ "Christopher Nolan", "Steven Spielberg", "Quentin Tarantino", "James Cameron" ],
+          "correctAnswer": "1" // Christopher Nolan
+        },
+        {
+          "question": "Quel film a remporté l'Oscar du meilleur film en 2020 ?",
+          "options": [ "1917", "Joker", "Parasite", "Once Upon a Time in Hollywood" ],
+          "correctAnswer": "3" // Parasite
+        },
+        {
+          "question": "Qui a joué le rôle de Jack Dawson dans le film 'Titanic' ?",
+          "options": [ "Leonardo DiCaprio", "Brad Pitt", "Tom Hanks", "Johnny Depp" ],
+          "correctAnswer": "1" // Leonardo DiCaprio
+        },
+        {
+          "question": "Quel acteur a incarné James Bond dans 'Skyfall' ?",
+          "options": [ "Daniel Craig", "Pierce Brosnan", "Sean Connery", "Roger Moore" ],
+          "correctAnswer": "1" // Daniel Craig
+        },
+        {
+          "question": "Quel réalisateur a dirigé la trilogie 'Le Seigneur des Anneaux' ?",
+          "options": [ "Steven Spielberg", "Peter Jackson", "George Lucas", "Christopher Nolan" ],
+          "correctAnswer": "2" // Peter Jackson
+        }
+      ]
+    }
+  ]
+}

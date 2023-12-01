@@ -1,0 +1,15 @@
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\bin\Debug\net6.0\QuizzConsole.exe
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\bin\Debug\net6.0\QuizzConsole.deps.json
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\bin\Debug\net6.0\QuizzConsole.runtimeconfig.json
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\bin\Debug\net6.0\QuizzConsole.dll
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\bin\Debug\net6.0\QuizzConsole.pdb
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\obj\Debug\net6.0\QuizzConsole.csproj.AssemblyReference.cache
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\obj\Debug\net6.0\QuizzConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\obj\Debug\net6.0\QuizzConsole.AssemblyInfoInputs.cache
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\obj\Debug\net6.0\QuizzConsole.AssemblyInfo.cs
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\obj\Debug\net6.0\QuizzConsole.csproj.CoreCompileInputs.cache
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\obj\Debug\net6.0\QuizzConsole.dll
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\obj\Debug\net6.0\refint\QuizzConsole.dll
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\obj\Debug\net6.0\QuizzConsole.pdb
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\obj\Debug\net6.0\QuizzConsole.genruntimeconfig.cache
+C:\Users\kalil\OneDrive\Bureau\QuizzConsole\obj\Debug\net6.0\ref\QuizzConsole.dll
